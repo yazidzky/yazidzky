@@ -17,11 +17,11 @@ Berikut adalah daftar teknologi yang digunakan dalam proyek ini:
 | 11 | ODM | Mongoose | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="20" /> |
 | 12 | Real-Time Communication | Socket.io | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" /> |
 | 13 | In-Memory Database | Redis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> |
-| 14 | Authentication | JWT | 🪙 |
-| 15 | Enkripsi | Bcrypt | 🔒 |
-| 16 | Animasi | Framer Motion | 🎭 |
-| 17 | Animasi | GSAP | ⚡ |
-| 18 | Analitik & Tracking | Google Analytics | 📈 |
-| 19 | Analitik & Tracking | Meta Pixel | 🔎 |
-| 20 | Peta | Google Maps API | 🗺️ |
+| 14 | Authentication | JWT |  |
+| 15 | Enkripsi | Bcrypt |  |
+| 16 | Animasi | Framer Motion |  |
+| 17 | Animasi | GSAP |  |
+| 18 | Analitik & Tracking | Google Analytics |  |
+| 19 | Analitik & Tracking | Meta Pixel |  |
+| 20 | Peta | Google Maps API |  |
 | 21 | CSS | CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> |

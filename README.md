@@ -1,27 +1,358 @@
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+My+Tech+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%7C+Creative+Coder;Building+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
-Berikut adalah daftar teknologi yang digunakan dalam proyek ini:
+<br/>
 
-| No. | Kategori | Nama Teknologi | Ikon |
-|-----|----------|----------------|------|
-| 1 | Bahasa Pemrograman | PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" /> |
-| 2 | Bahasa Pemrograman | JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> |
-| 3 | Bahasa Pemrograman | HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> |
-| 4 | Basis Data | MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> |
-| 5 | Basis Data | MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" /> |
-| 6 | Frontend Framework/Library | React (dalam MERN) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> |
-| 7 | Frontend Framework/Library | Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" /> |
-| 8 | CSS Framework | Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" /> |
-| 9 | Backend Framework | Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> |
-| 10 | Backend Framework | Express.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" /> |
-| 11 | ODM | Mongoose | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="20" /> |
-| 12 | Real-Time Communication | Socket.io | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" /> |
-| 13 | In-Memory Database | Redis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> |
-| 14 | Authentication | JWT |  |
-| 15 | Enkripsi | Bcrypt |  |
-| 16 | Animasi | Framer Motion |  |
-| 17 | Animasi | GSAP |  |
-| 18 | Analitik & Tracking | Google Analytics |  |
-| 19 | Analitik & Tracking | Meta Pixel |  |
-| 20 | Peta | Google Maps API |  |
-| 21 | CSS | CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> |
+<!-- Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Portfolio%20Tech%20Stack&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Crafting Digital Experiences with Modern Technologies
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)](https://nodejs.org/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+---
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    location: "Indonesia 🇮🇩",
+    code: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind CSS", "CSS3"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            php: ["PHP"]
+        },
+        databases: ["MongoDB", "MySQL", "Redis"],
+        animations: ["Framer Motion", "GSAP"],
+        misc: ["Socket.io", "JWT", "Bcrypt"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() 🐛"
+};
+```
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⚙️ Backend Development
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express" />
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP" />
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=socketio" width="55" height="55" alt="Socket.io" />
+<br><strong>Socket.io</strong>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### 🗄️ Database & Storage
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="55" height="55" alt="Mongoose" />
+<br><strong>Mongoose</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎭 Animation & Special Tools
+
+<div align="center">
+
+| 🎨 Technology | 💡 Purpose | ⚡ Power Level |
+|:-------------:|:----------:|:-------------:|
+| **Framer Motion** | React Animations | ![](https://geps.dev/progress/95) |
+| **GSAP** | Timeline Animations | ![](https://geps.dev/progress/90) |
+| **JWT** | Authentication | ![](https://geps.dev/progress/88) |
+| **Bcrypt** | Encryption | ![](https://geps.dev/progress/85) |
+| **Google Analytics** | Tracking | ![](https://geps.dev/progress/80) |
+| **Meta Pixel** | Conversion | ![](https://geps.dev/progress/80) |
+| **Google Maps API** | Location Services | ![](https://geps.dev/progress/75) |
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Full-Stack MERN App
+![MERN](https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge)
+
+**Tech Stack:**
+- MongoDB + Express + React + Node.js
+- Real-time with Socket.io
+- JWT Authentication
+- Redis Caching
+
+</td>
+<td width="50%">
+
+### ⚡ Next.js Web App
+![Next.js](https://img.shields.io/badge/Next.js-TypeScript-blue?style=for-the-badge)
+
+**Features:**
+- Server-side Rendering
+- Tailwind CSS Design
+- Framer Motion Animations
+- Google Analytics
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Interactive UI Showcase
+![UI](https://img.shields.io/badge/UI-Showcase-purple?style=for-the-badge)
+
+**Highlights:**
+- GSAP Timeline Animations
+- Smooth Page Transitions
+- Responsive Design
+- Modern UI/UX
+
+</td>
+<td width="50%">
+
+### 🔐 Secure Auth System
+![Auth](https://img.shields.io/badge/Auth-System-red?style=for-the-badge)
+
+**Security:**
+- JWT Token Management
+- Bcrypt Password Hashing
+- Role-based Access
+- Session Management
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" width="48%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💻 Development Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎓 Learning Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Current Focus] --> B[Advanced TypeScript]
+    A --> C[Microservices]
+    A --> D[Cloud Architecture]
+    B --> E[Design Patterns]
+    C --> F[Docker & K8s]
+    D --> G[AWS/Azure]
+    E --> H[🚀 Next Level]
+    F --> H
+    G --> H
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-YOUR_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star this repo if you find it interesting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>

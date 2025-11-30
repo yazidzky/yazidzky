@@ -231,29 +231,6 @@ const developer = {
 
 ---
 
-
-## 🎓 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[Advanced TypeScript]
-    A --> C[Microservices]
-    A --> D[Cloud Architecture]
-    B --> E[Design Patterns]
-    C --> F[Docker & K8s]
-    D --> G[AWS/Azure]
-    E --> H[🚀 Next Level]
-    F --> H
-    G --> H
-```
-
-</div>
-
----
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
